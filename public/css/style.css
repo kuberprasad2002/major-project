@@ -126,4 +126,14 @@ color: #222222 !important;
           padding-left: 0;
           padding-right: 0;
 }
+ /* Social media links */
+.f-info-socials a{
+    color: #222222;
+    text-decoration: none;
+    margin-right: 1rem;
+}
 
+.f-info-socials a:hover{
+    color: #fe424d;
+    transform: scale(1.2);
+}
